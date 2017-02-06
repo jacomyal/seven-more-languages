@@ -1,0 +1,3 @@
+# My takes on "Seven more languages in seven weeks" exercises
+
+Nothing more than that, actually...
